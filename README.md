@@ -1,2 +1,1 @@
-# Emperorsunny-Project
-ML Analyses
+# ML modeling of velocity–resistivity datasets
